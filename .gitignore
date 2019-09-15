@@ -1,0 +1,13 @@
+*.o
+*.dSYM
+data/
+data_tst/
+images/
+labels/
+
+# OS Generated #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp

@@ -1,0 +1,6 @@
+classes= 5
+train  = data_tst/train_files.txt
+valid  = data_tst/test_files.txt
+names = data_tst/voc.names
+backup = backup
+
